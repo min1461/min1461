@@ -1,3 +1,7 @@
+<div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+</div>
+
 ### Hi there 👋
 #### 저의 github에 방문해주셔서 감사합니다.
 ##### 초보개발자의 성공하기!
