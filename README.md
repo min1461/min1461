@@ -14,7 +14,7 @@
 ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MariaDB](http://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![AmazonAWS](http://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 ![Other](http://img.shields.io/badge/Other_:-white?style=flat-square&logo=Ghostery&logoColor=8CA1AF)
 ![AdobePhotoshop](http://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
