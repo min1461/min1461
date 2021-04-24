@@ -10,12 +10,12 @@
 ![Node.js](http://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Apache-Tomcat](http://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=black)
 
-![DB](http://img.shields.io/badge/DB_:-white?style=flat-square&logo=AdBlock&logoColor=ED1944)
+![DBSTACK](http://img.shields.io/badge/DBSTACK_:-white?style=flat-square&logo=AdBlock&logoColor=ED1944)
 ![OracleDB](http://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MariaDB](http://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![AmazonAWS](http://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Other](http://img.shields.io/badge/Other_:-white?style=flat-square&logo=Ghostery&logoColor=8CA1AF)
 ![AdobePhotoshop](http://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
