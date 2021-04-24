@@ -7,7 +7,6 @@
 ![CSS3](http://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![SpringFramework](http://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![JSP](http://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white)
-![Node.js](http://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Apache-Tomcat](http://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=black)
 
 ![DBSTACK](http://img.shields.io/badge/DBSTACK_:-white?style=flat-square&logo=AdBlock&logoColor=ED1944)
@@ -15,7 +14,7 @@
 ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MariaDB](http://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![AmazonAWS](http://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Other](http://img.shields.io/badge/Other_:-white?style=flat-square&logo=Ghostery&logoColor=8CA1AF)
 ![AdobePhotoshop](http://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
@@ -28,6 +27,7 @@
 Fighting🧡
 <!--
 **min1461/min1461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Node.js](http://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 Here are some ideas to get you started:
 
