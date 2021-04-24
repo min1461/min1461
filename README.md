@@ -4,7 +4,7 @@
 
 [![GitHub](http://img.shields.io/badge/Git_Hub-black?style=flat-square&logo=github&link=https://min1461.github.io/)](https://min1461.github.io/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009781620649)](https://www.facebook.com/profile.php?id=100009781620649)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/minkue/)](https://https://www.instagram.com/minkue/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/minkue/)](https://www.instagram.com/minkue/)
 [![E-Mail Badge](https://img.shields.io/badge/E_Mail-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:min1461@naver.com)](mailto:min1461@naver.com)
 
 </div>
