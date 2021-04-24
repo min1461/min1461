@@ -8,7 +8,7 @@
 ![SpringFramework](http://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![JSP](http://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white)
 ![Node.js](http://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Apache-Tomcat](http://img.shields.io/badge/Apache_Tomcat-339933?style=flat-square&logo=Apache-Tomcat&logoColor=white)
+![Apache-Tomcat](http://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=black)
 
 ![DBSTACK](http://img.shields.io/badge/DBSTACK_:-white?style=flat-square&logo=AdBlock&logoColor=ED1944)
 ![OracleDB](http://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white)
