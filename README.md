@@ -13,7 +13,7 @@
 ![MariaDB](http://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![AmazonAWS](http://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon&nbspAWS&logoColor=white)
 
-![Other](http://img.shields.io/badge/Other_:-white?style=flat-square&logo=Gostery&logoColor=ED1944)
+![Other](http://img.shields.io/badge/Other_:-white?style=flat-square&logo=Ghostery&logoColor=8CA1AF)
 ![AdobePhotoshop](http://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobe&nbspphotoshop&logoColor=white)
 
 </div>
