@@ -8,15 +8,16 @@
 ![SpringFramework](http://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![JSP](http://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white)
 ![Node.js](http://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![ApacheTomcat](http://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=white)
 
-![DBSTACK](http://img.shields.io/badge/DBSTACK_:-white?style=flat-square&logo=StackOverflow&logoColor=ED1944)
+![DBSTACK](http://img.shields.io/badge/DBSTACK_:-white?style=flat-square&logo=AdBlock&logoColor=ED1944)
 ![OracleDB](http://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MariaDB](http://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
-![AmazonAWS](http://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon&nbspAWS&logoColor=white)
+![AmazonAWS](http://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 
 ![Other](http://img.shields.io/badge/Other_:-white?style=flat-square&logo=Ghostery&logoColor=8CA1AF)
-![AdobePhotoshop](http://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobe&nbspphotoshop&logoColor=white)
+![AdobePhotoshop](http://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
 </div>
 
