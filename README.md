@@ -2,8 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin1461%2Fhit-counter&count_bg=%2379C83D&title_bg=%23585858&icon=mitsubishi.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![MY_SOCIAL_NETWORK](http://img.shields.io/badge/MY_SOCIAL_NETWORK-white?style=flat-square&logo=star)](https://github.com/min1461)
-
+![MY_SOCIAL_NETWORK](http://img.shields.io/badge/SOCIAL_NETWORK_:-white?style=flat-square&logo=Netflix&logoColor=ED1944)
 [![GitHub](http://img.shields.io/badge/Git_Hub-black?style=plastic-square&logo=github&link=https://github.com/min1461)](https://github.com/min1461)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=plastic-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009781620649)](https://www.facebook.com/profile.php?id=100009781620649)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/minkue/)](https://www.instagram.com/minkue/)
