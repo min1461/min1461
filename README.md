@@ -15,9 +15,9 @@
 ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MariaDB](http://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![AmazonAWS](http://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Other](http://img.shields.io/badge/Other_:-white?style=flat-square&logo=Ghostery&logoColor=8CA1AF)
-![AdobePhotoshop](http://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![AdobePhotoshop](http://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
 </div>
 
@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 [![GitHub](http://img.shields.io/badge/Git_Hub-black?style=plastic-square&logo=github&link=https://github.com/min1461)](https://github.com/min1461)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=plastic-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009781620649)](https://www.facebook.com/profile.php?id=100009781620649)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/minkue/)](https://www.instagram.com/minkue/)
-[![E-Mail Badge](https://img.shields.io/badge/E_Mail-03C75A?style=plastic-square&logo=naver&logoColor=white&link=mailto:min1461@naver.com)](mailto:min1461@naver.com)
+[![E-Mail Badge](https://img.shields.io/badge/E--Mail-03C75A?style=plastic-square&logo=naver&logoColor=white&link=mailto:min1461@naver.com)](mailto:min1461@naver.com)
+[![G-Mail Badge](https://img.shields.io/badge/G--Mail-EA4335?style=plastic-square&logo=gmail&logoColor=white&link=mailto:min1461@naver.com)](mailto:min1461@naver.com)
 
 </div>
