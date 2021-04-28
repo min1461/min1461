@@ -29,10 +29,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min1461&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 -----------------------------------------------
 
-Fighting🧡
+# Fighting🧡
+
+</div>
+
 <!--
 **min1461/min1461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Node.js](http://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
