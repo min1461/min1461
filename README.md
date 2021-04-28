@@ -20,14 +20,16 @@
 
 </div>
 
-### Hi there 👋
-#### Welcome to my github
-#### thank you for visit
+<div align = center>
+## Hi there 👋
+### Welcome to my github
+### thank you for visit
 
-#### I'm Kang Min-Kue
+### I'm Kang Min-Kue
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min1461&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 -----------------------------------------------
 Fighting🧡
 <!--
