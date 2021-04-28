@@ -21,12 +21,11 @@
 </div>
 
 ### Hi there 👋
+#### Welcome to my github
+#### thank you for visit
 
-Welcome to my github
+#### I'm Kang Min-Kue
 
-I'm Kang Min-Kue
-
-thank you for visit
 -----------------------------------------------
 Fighting🧡
 <!--
